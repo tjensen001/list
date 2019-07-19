@@ -43,27 +43,4 @@
     {"name": "Spring", "value": 2213},
     {"name": "SpringForce", "value": 1681}
    ]
-  },
-  {
-   "name": "query",
-   "children": [
-    {"name": "AggregateExpression", "value": 1616},
-    {"name": "And", "value": 1027},
-    {"name": "Arithmetic", "value": 3891},
-    {"name": "Average", "value": 891},
-    {"name": "BinaryExpression", "value": 2893},
-    {"name": "Comparison", "value": 5103},
-    {"name": "CompositeExpression", "value": 3677},
-    {"name": "Count", "value": 781},
-    {"name": "DateUtil", "value": 4141},
-    {"name": "Distinct", "value": 933},
-    {"name": "Expression", "value": 5130},
-    {"name": "ExpressionIterator", "value": 3617},
-    {"name": "Fn", "value": 3240},
-    {"name": "If", "value": 2732},
-    {"name": "IsA", "value": 2039},
-    {"name": "Literal", "value": 1214},
-    {"name": "Match", "value": 3748},
-    {"name": "Maximum", "value": 843},
-    {
-   
+  }
