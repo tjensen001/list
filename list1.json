@@ -1,47 +1,45 @@
 {
- "name": "Mylist",
+ "name": "flare",
  "children": [
   {
-   "name": "This Category",
+   "name": "analytics",
    "children": [
     {
-     "name": "Within this category",
+     "name": "cluster",
      "children": [
-      {"name": "item101", "value": 3938},
-      {"name": "item102", "value": 3812},
-     ]
-    },
-    {
-     "name": "CircleCatherine",
-     "children": [
-      {"name": "Buttsecks", "value": 3534},
-      {"name": "LinkDistance", "value": 5731},
+      {"name": "AgglomerativeCluster", "value": 3938},
+      {"name": "CommunityStructure", "value": 3812}
       
      ]
     },
     {
-     "name": "Redwood",
+     "name": "optimization",
      "children": [
-      {"name": "smallwood", "value": 7074}
+      {"name": "AspectRatioBanker", "value": 7074}
      ]
     }
    ]
   },
   {
-   "name": "Let us do this",
+   "name": "animate",
    "children": [
-    {"name": "7", "value": 17010},
-    {"name": "6", "value": 5842},
+    {"name": "Easing", "value": 17010},
+    {"name": "FunctionSequence", "value": 5842},
     {
      "name": "interpolate",
      "children": [
-      {"name": "5", "value": 1983},
-      {"name": "4", "value": 2047},
-      ]
+      {"name": "ArrayInterpolator", "value": 1983},
+      {"name": "ColorInterpolator", "value": 2047},
+      {"name": "DateInterpolator", "value": 1375},
+      {"name": "RectangleInterpolator", "value": 2042}
+     ]
     },
-    {"name": "1", "value": 1041},
-    {"name": "2", "value": 5176},
-    {"name": "3", "value": 449},
+    {"name": "ISchedulable", "value": 1041},
+    {"name": "Parallel", "value": 5176},
+    {"name": "Pause", "value": 449},
+    
+    {"name": "Tween", "value": 6006}
+   ]
   }
   ]
 }
